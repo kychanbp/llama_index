@@ -14,7 +14,7 @@ from pkg_resources import DistributionNotFound
 
 from gpt_index.readers.base import BaseReader
 
-LLAMA_HUB_CONTENTS_URL = "https://raw.githubusercontent.com/kychanbp/llama-hub/master"
+LLAMA_HUB_CONTENTS_URL = "https://raw.githubusercontent.com/kychanbp/llama-hub/main"
 LOADER_HUB_PATH = "/loader_hub"
 LOADER_HUB_URL = LLAMA_HUB_CONTENTS_URL + LOADER_HUB_PATH
 
